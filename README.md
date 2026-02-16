@@ -1,3 +1,6 @@
 Pydantic-tutorial
 
 type validation using pydantic
+
+Required and optional
+- by defualt every key is required.
