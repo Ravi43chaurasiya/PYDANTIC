@@ -4,3 +4,11 @@ type validation using pydantic
 
 Required and optional
 - by defualt every key is required.
+
+Data validation
+
+EmailStr, AnyUrl
+
+Field
+
+Annotated
