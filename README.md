@@ -16,3 +16,5 @@ Annotated
 Field validator
 
 - field validator works in two modes, after (defualt->after type coersion) and before.
+
+model validator
